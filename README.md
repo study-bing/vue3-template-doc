@@ -7,11 +7,11 @@ pnpm install
 ## 运行
 
 ```
-pnpm dev
+pnpm docs:dev
 ```
 
 ## 打包
 
 ```
-pnpm build
+pnpm docs:build
 ```
