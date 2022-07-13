@@ -1,1 +1,17 @@
-# vue3-template-doc
+## 安装依赖
+
+```
+pnpm install
+```
+
+## 运行
+
+```
+pnpm dev
+```
+
+## 打包
+
+```
+pnpm build
+```
